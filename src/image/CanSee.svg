@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="15px" viewBox="0 0 22 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 53.2 (72643) - https://sketchapp.com -->
+    <title>D7A1B865-209E-40E4-AAE1-A46EAFE503C1</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Register" transform="translate(-1337.000000, -690.000000)" fill="#775DFF" fill-rule="nonzero">
+            <g id="Sign-In" transform="translate(852.000000, 198.000000)">
+                <g id="Password" transform="translate(32.000000, 438.000000)">
+                    <g id="Text/Field" transform="translate(0.000000, 40.000000)">
+                        <g id="ic-remove-red-eye-48px" transform="translate(452.000000, 9.000000)">
+                            <path d="M12,5 C7,5 2.73,8.11 1,12.5 C2.73,16.89 7,20 12,20 C17,20 21.27,16.89 23,12.5 C21.27,8.11 17.005,5 12,5 Z M12,17.5 C9.24,17.5 7,15.26 7,12.5 C7,9.74 9.24,7.5 12,7.5 C14.76,7.5 17,9.74 17,12.5 C17,15.26 14.76,17.5 12,17.5 Z M12,9.5 C10.345,9.5 9,10.845 9,12.5 C9,14.155 10.345,15.5 12,15.5 C13.655,15.5 15,14.155 15,12.5 C15,10.845 13.655,9.5 12,9.5 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

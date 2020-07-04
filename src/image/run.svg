@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="62px" viewBox="0 0 51 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 53.2 (72643) - https://sketchapp.com -->
+    <title>6B6805C1-AC85-444C-82C4-F75B7388D119</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-4.6%" y="-22.7%" width="109.3%" height="145.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.466666667   0 0 0 0 0.364705882   0 0 0 0 1  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-61.000000, -801.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Fovoeite-Categories" transform="translate(40.000000, 637.000000)">
+                <g id="Category" filter="url(#filter-1)" transform="translate(0.000000, 152.000000)">
+                    <g id="ic-directions-run-48px" transform="translate(24.000000, 20.059446)">
+                        <path d="M27.2,9.77214011 C29.4,9.77214011 31.2,8.01422491 31.2,5.86566189 C31.2,3.71709887 29.4,1.95918367 27.2,1.95918367 C25,1.95918367 23.2,3.71709887 23.2,5.86566189 C23.2,8.01422491 25,9.77214011 27.2,9.77214011 Z M20,36.9221637 L21.9,28.3279116 L26.2,32.2343899 L26.2,43.9538245 L30.2,43.9538245 L30.2,29.2068692 L26.1,25.2027291 L27.3,19.3430117 C29.9,22.4681943 33.8,24.4214334 38.2,24.4214334 L38.2,20.5149552 C34.5,20.5149552 31.3,18.5617161 29.5,15.7295194 L27.6,12.6043368 C26.9,11.4323934 25.6,10.7487597 24.2,10.7487597 C23.7,10.7487597 23.2,10.8464216 22.7,11.0417455 L12.2,15.2412096 L12.2,24.4214334 L16.2,24.4214334 L16.2,17.8780824 L19.7,16.510815 L16.6,32.2343899 L6.8,30.3788127 L6,34.187629 C6,34.187629 20,36.8245018 20,36.9221637 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
